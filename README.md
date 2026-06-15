@@ -29,6 +29,21 @@ Bu proje, deniz canlılarını interaktif bir şekilde tanıtmak amacıyla hazı
    - **"i" butonuna basarak** ekstra bilgileri okuyun.
    - **"Quiz" butonuna basarak** kendinizi test edin.
 
+### 📸 Proje Canlı Görünümü (Demo)
+*Uygulamanın telefon ekranındaki görüntüsü:*
+
+![Canlı Görünüm 1](canli_gorunum1.jpeg)
+![Canlı Görünüm 2](canli_gorunum2.jpeg)
 
 ---
-*Bu proje Yazılım Mühendisliği Güncel Konular kapsamında Helin Korkutata tarafından geliştirilmiştir.*
+
+### 🖼️ Müze Sergi Kartları (QR Kodlar)
+*Deneyimlemek için aşağıdaki görselleri telefonunuzla taratın:*
+
+| 🐠 Palyaço Balığı Kartı | 🦈 Köpekbalığı Kartı |
+| :---: | :---: |
+| ![Palyaço Balığı](clownfish_card.png.jpeg) | ![Köpekbalığı](shark_card.png.jpeg) |
+
+
+---
+*Bu proje Yazılım Mühendisliği Güncel Konular kapsamında 220541088 nolu öğrenci Helin Korkutata tarafından geliştirilmiştir.*
